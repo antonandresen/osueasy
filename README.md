@@ -1,10 +1,12 @@
 # osueasy
 
-## Current release: v0.1.1
+## Current release: v0.1.2
+
+> **_NOTE:_** This library is basically a wrapper for [Bancho.js](https://github.com/ThePooN/bancho.js) to simplify creation of specific bancho applications. If you need more advanced/custom functionality, please use [Bancho.js](https://github.com/ThePooN/bancho.js) instead. It's very well made.
 
 # Introduction
 
-easy osu bancho interfacing
+Easy osu bancho interfacing
 
 # Disclaimer
 

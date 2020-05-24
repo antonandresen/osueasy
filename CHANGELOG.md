@@ -2,6 +2,11 @@
 
 ## Version 0.1
 
+### Version 0.1.2
+
+- Added OsueasyClient for interfacing with library
+- Added basicTextChatBot.js example
+
 ### Version 0.1.1
 
 - Added README
