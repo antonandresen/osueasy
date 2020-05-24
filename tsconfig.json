@@ -13,5 +13,6 @@
     "noImplicitAny": true,
     "esModuleInterop": true,
     "resolveJsonModule": true
-  }
+  },
+  "exclude": ["examples", "node_modules", "lib"]
 }

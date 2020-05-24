@@ -5,13 +5,10 @@ export default class TextChatBot {
   private prefix: string;
   private banchoClient: BanchoClient;
 
-  constructor(username: string, password: string, prefix: string) {
+  constructor(banchoClient: BanchoClient, prefix: string) {
     this.commandList = new Map<string, string>();
     this.prefix = prefix;
-    this.banchoClient = new BanchoClient({
-      username,
-      password,
-    });
+    this.banchoClient = banchoClient;
   }
 
   public addCommand(name: string, response: string): void {

@@ -1,8 +1,9 @@
+import { BanchoClient } from 'bancho.js';
 export default class TextChatBot {
     private commandList;
     private prefix;
     private banchoClient;
-    constructor(username: string, password: string, prefix: string);
+    constructor(banchoClient: BanchoClient, prefix: string);
     addCommand(name: string, response: string): void;
     start(): Promise<void>;
     private setupClient;

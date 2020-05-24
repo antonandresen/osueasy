@@ -1,0 +1,1 @@
+{"version":3,"file":"OsueasyClient.d.ts","sourceRoot":"","sources":["../src/OsueasyClient.ts"],"names":[],"mappings":"AACA,OAAO,WAAW,MAAM,eAAe,CAAC;AAExC,MAAM,CAAC,OAAO,OAAO,aAAa;IAChC,OAAO,CAAC,YAAY,CAAe;gBAEvB,QAAQ,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM;IAI9C,iBAAiB,CAAC,MAAM,EAAE,MAAM,GAAG,WAAW;CAG/C"}
