@@ -1,4 +1,4 @@
-const { OsueasyClient } = require('../lib');
+const { OsueasyClient } = require('../lib'); // Replace ../lib with osueasy
 
 // Bot command prefix
 const PREFIX = '!';
