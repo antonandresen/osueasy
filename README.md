@@ -1,6 +1,6 @@
 # osueasy
 
-## Current release: v0.1.0
+## Current release: v0.1.1
 
 # Introduction
 
