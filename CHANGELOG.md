@@ -2,6 +2,10 @@
 
 ## Version 0.1
 
+### Version 0.1.3
+
+- Added basic library docs using docusaurus
+
 ### Version 0.1.2
 
 - Added OsueasyClient for interfacing with library
